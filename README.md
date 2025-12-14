@@ -1,6 +1,7 @@
 ## Hi there 👋
-##About Me
-I’m a detail-oriented Data Analyst with a strong foundation in evaluating datasets for accuracy, consistency, and reliability. I have hands-on experience in processing, cleaning, and transforming raw data to support data-driven decision-making.
+
+## About Me :
+I’m a detail-oriented Data Analyst with a strong foundation in evaluating datasets to ensure accuracy, consistency, and reliability. I have hands-on experience in collecting, processing, cleaning, and transforming raw data from multiple sources, ensuring it is well-structured and ready for analysis.
 
 <!
 ## 🌐 Socials:
